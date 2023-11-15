@@ -1,0 +1,97 @@
+Purchase Orders,,,,,,,,,
+,,,,,,,,,
+Supplier ,Order No.,Item No.,Item Description,Item Cost,Quantity,Cost per order,A/P Terms (Months),Order Date,Arrival Date
+Alum Sheeting,A0223,4224,Bolt-nut package,$3.95 ,"4,500",17775,30,10/15/2011,10/20/2011
+Alum Sheeting,A0433,5417,Control Panel,$255.00 ,500,127500,30,10/20/2011,10/27/2011
+Alum Sheeting,A0443,1243,Airframe fasteners,$4.25 ,"10,000",42500,30,8/8/2011,8/14/2011
+Alum Sheeting,A0446,5417,Control Panel,$255.00 ,406,103530,30,9/1/2011,9/10/2011
+Alum Sheeting,B0247,1243,Airframe fasteners,$4.25 ,"9,000",38250,30,9/5/2011,9/12/2011
+Alum Sheeting,B0447,5634,Side Panel,$185.00 ,150,27750,30,10/25/2011,11/3/2011
+Alum Sheeting,B0479,5634,Side Panel,$185.00 ,140,25900,30,10/29/2011,11/4/2011
+Alum Sheeting,B0567,1243,Airframe fasteners,$4.25 ,"10,500",44625,30,10/10/2011,10/17/2011
+Durrable Products,A1234,9399,Gasket,$3.65 ,"1,250",4562.5,45,10/1/2011,10/6/2011
+Durrable Products,A1235,9399,Gasket,$3.65 ,"1,450",5292.5,45,10/3/2011,10/8/2011
+Durrable Products,A1344,5454,Control Panel,$220.00 ,550,121000,45,10/9/2011,10/14/2011
+Durrable Products,A1345,9399,Gasket,$3.65 ,"1,470",5365.5,45,10/7/2011,10/12/2011
+Durrable Products,A1346,9399,Gasket,$3.65 ,"1,985",7245.25,45,10/5/2011,10/11/2011
+Durrable Products,A1456,5454,Control Panel,$220.00 ,500,110000,45,10/15/2011,10/20/2011
+Durrable Products,A1457,4569,Bolt-nut package,$3.50 ,"3,900",13650,45,10/5/2011,10/10/2011
+Durrable Products,A1567,1369,Airframe fasteners,$4.20 ,"15,000",63000,45,9/25/2011,9/30/2011
+Durrable Products,B1234,7258,Pressure Gauge,$90.00 ,100,9000,45,8/25/2011,8/28/2011
+Durrable Products,B1345,7258,Pressure Gauge,$90.00 ,120,10800,45,9/5/2011,9/9/2011
+Durrable Products,B1468,1369,Airframe fasteners,$4.20 ,"14,000",58800,45,9/27/2011,10/3/2011
+Durrable Products,B1589,5275,Shielded Cable/ft.,$1.00 ,"25,000",25000,45,10/25/2011,10/30/2011
+Durrable Products,B1666,1369,Airframe fasteners,$4.20 ,"10,000",42000,45,9/29/2011,10/4/2011
+Fast-Tie Aerospace,B2333,6321,O-Ring,$2.45 ,"1,300",3185,30,8/25/2011,9/4/2011
+Fast-Tie Aerospace,B2345,6321,O-Ring,$2.45 ,"1,200",2940,30,9/12/2011,9/23/2011
+Fast-Tie Aerospace,B2356,6321,O-Ring,$2.45 ,"2,500",6125,30,9/25/2011,10/4/2011
+Fast-Tie Aerospace,B2367,6321,O-Ring,$2.45 ,"1,250",3062.5,30,10/12/2011,10/21/2011
+Fast-Tie Aerospace,B2378,6321,O-Ring,$2.45 ,"1,500",3675,30,10/25/2011,11/2/2011
+Fast-Tie Aerospace,B2498,5689,Side Panel,$175.00 ,150,26250,30,11/1/2011,11/9/2011
+Fast-Tie Aerospace,B2499,7268,Pressure Gauge,$95.00 ,110,10450,30,11/1/2011,11/12/2011
+Fast-Tie Aerospace,B2511,7268,Pressure Gauge,$95.00 ,105,9975,30,11/5/2011,11/16/2011
+Fast-Tie Aerospace,B2519,5462,Shielded Cable/ft.,$1.05 ,"22,500",23625,30,8/20/2011,8/26/2011
+Fast-Tie Aerospace,B2528,5689,Side Panel,$175.00 ,175,30625,30,11/5/2011,11/15/2011
+Fast-Tie Aerospace,B2537,5462,Shielded Cable/ft.,$1.05 ,"21,500",22575,30,8/15/2011,8/22/2011
+Fast-Tie Aerospace,B2566,5462,Shielded Cable/ft.,$1.05 ,"23,000",24150,30,8/10/2011,8/15/2011
+Fast-Tie Aerospace,C0234,5166,Electrical Connector,$1.25 ,"5,650",7062.5,30,10/1/2011,10/6/2011
+Fast-Tie Aerospace,C0423,5689,Side Panel,$175.00 ,155,27125,30,10/25/2011,11/3/2011
+Fast-Tie Aerospace,C0433,5462,Shielded Cable/ft.,$1.05 ,"22,500",23625,30,8/25/2011,9/2/2011
+Hulkey Fasteners,C1212,1122,Airframe fasteners,$4.25 ,"19,500",82875,30,8/5/2011,8/13/2011
+Hulkey Fasteners,C1313,3166,Electrical Connector,$1.25 ,"5,600",7000,30,8/25/2011,8/29/2011
+Hulkey Fasteners,C2323,1122,Airframe fasteners,$4.25 ,"15,500",65875,30,9/4/2011,9/12/2011
+Hulkey Fasteners,C2929,3166,Electrical Connector,$1.25 ,"5,500",6875,30,9/1/2011,9/6/2011
+Hulkey Fasteners,C3232,1122,Airframe fasteners,$4.25 ,"18,000",76500,30,10/1/2011,10/8/2011
+Hulkey Fasteners,C3434,1122,Airframe fasteners,$4.25 ,"12,500",53125,30,9/5/2011,9/11/2011
+Hulkey Fasteners,C4545,1122,Airframe fasteners,$4.25 ,"15,000",63750,30,9/8/2011,9/15/2011
+Hulkey Fasteners,C5656,1122,Airframe fasteners,$4.25 ,"14,500",61625,30,9/28/2011,10/3/2011
+Hulkey Fasteners,C6765,5066,Shielded Cable/ft.,$0.95 ,"25,000",23750,30,9/5/2011,9/12/2011
+Hulkey Fasteners,C7875,3166,Electrical Connector,$1.25 ,"5,650",7062.5,30,9/5/2011,9/10/2011
+Hulkey Fasteners,C8854,3166,Electrical Connector,$1.25 ,"5,425",6781.25,30,9/10/2011,9/15/2011
+Hulkey Fasteners,C8989,9966,Hatch Decal,$0.75 ,500,375,30,8/25/2011,8/31/2011
+Hulkey Fasteners,D1212,5066,Shielded Cable/ft.,$0.95 ,"17,500",16625,30,9/15/2011,9/22/2011
+Hulkey Fasteners,D2121,1122,Airframe fasteners,$4.25 ,"17,500",74375,30,10/25/2011,11/3/2011
+Hulkey Fasteners,D3232,1122,Airframe fasteners,$4.25 ,"17,000",72250,30,10/11/2011,10/19/2011
+Manley Valve,A2345,6431,O-Ring,$2.85 ,"1,250",3562.5,30,10/5/2011,10/10/2011
+Manley Valve,A2356,7258,Pressure Gauge,$100.50 ,95,9547.5,30,10/20/2011,10/29/2011
+Manley Valve,A2367,9977,Panel Decal,$1.00 ,525,525,30,11/1/2011,11/7/2011
+Manley Valve,A2378,6431,O-Ring,$2.85 ,"1,350",3847.5,30,10/1/2011,10/7/2011
+Manley Valve,A9821,6431,O-Ring,$2.85 ,"1,300",3705,30,9/25/2011,10/1/2011
+Manley Valve,A9842,7258,Pressure Gauge,$100.50 ,100,10050,30,10/15/2011,10/24/2011
+Manley Valve,A9865,9967,Hatch Decal,$0.85 ,550,467.5,30,11/5/2011,11/11/2011
+Manley Valve,A9876,9955,Door Decal,$0.55 ,150,82.5,30,11/1/2011,11/6/2011
+Manley Valve,C1111,9955,Door Decal,$0.55 ,125,68.75,30,11/5/2011,11/10/2011
+Manley Valve,C2222,7258,Pressure Gauge,$100.50 ,90,9045,30,10/10/2011,10/17/2011
+Manley Valve,C3333,8148,Machined Valve,$655.50 ,125,81937.5,30,10/10/2011,10/17/2011
+Pylon Accessories,A9999,6433,O-Ring,$2.95 ,"1,500",4425,15,10/1/2011,10/10/2011
+Pylon Accessories,B1111,9764,Gasket,$3.75 ,"1,980",7425,15,9/20/2011,9/29/2011
+Pylon Accessories,C2211,9764,Gasket,$3.75 ,"1,850",6937.5,15,9/25/2011,10/5/2011
+Pylon Accessories,D1111,9764,Gasket,$3.75 ,"1,800",6750,15,9/28/2011,10/5/2011
+Pylon Accessories,D3333,9764,Gasket,$3.75 ,"1,750",6562.5,15,9/20/2011,9/25/2011
+Spacetime Technologies,A0111,6489,O-Ring,$3.00 ,900,2700,25,10/10/2011,10/18/2011
+Spacetime Technologies,A0533,9752,Gasket,$4.05 ,"1,500",6075,25,9/20/2011,9/25/2011
+Spacetime Technologies,A0555,6489,O-Ring,$3.00 ,"1,100",3300,25,10/5/2011,10/10/2011
+Spacetime Technologies,A0622,9752,Gasket,$4.05 ,"1,550",6277.5,25,9/25/2011,10/5/2011
+Spacetime Technologies,A0666,5125,Shielded Cable/ft.,$1.15 ,"15,000",17250,25,10/1/2011,10/15/2011
+Spacetime Technologies,A0777,6489,O-Ring,$3.00 ,"1,050",3150,25,10/29/2011,11/10/2011
+Spacetime Technologies,A1222,4111,Bolt-nut package,$3.55 ,"4,200",14910,25,9/15/2011,10/15/2011
+Spacetime Technologies,A1444,4111,Bolt-nut package,$3.55 ,"4,250",15087.5,25,9/20/2011,10/10/2011
+Spacetime Technologies,A1445,4111,Bolt-nut package,$3.55 ,"4,200",14910,25,9/25/2011,10/25/2011
+Spacetime Technologies,A1449,4111,Bolt-nut package,$3.55 ,"4,600",16330,25,10/5/2011,10/19/2011
+Spacetime Technologies,A3467,4111,Bolt-nut package,$3.55 ,"4,800",17040,25,9/5/2011,9/20/2011
+Spacetime Technologies,A5689,4111,Bolt-nut package,$3.55 ,"4,585",16276.75,25,9/10/2011,9/30/2011
+Steelpin Inc.,A0115,5319,Shielded Cable/ft.,$1.10 ,"17,500",19250,30,8/20/2011,8/31/2011
+Steelpin Inc.,A0123,4312,Bolt-nut package,$3.75 ,"4,250",15937.5,30,8/25/2011,9/1/2011
+Steelpin Inc.,A0204,5319,Shielded Cable/ft.,$1.10 ,"16,500",18150,30,9/15/2011,10/5/2011
+Steelpin Inc.,A0205,5677,Side Panel,$195.00 ,120,23400,30,11/2/2011,11/13/2011
+Steelpin Inc.,A0207,4312,Bolt-nut package,$3.75 ,"4,200",15750,30,9/1/2011,9/10/2011
+Steelpin Inc.,B0445,4312,Bolt-nut package,$3.75 ,"4,150",15562.5,30,9/3/2011,9/11/2011
+Steelpin Inc.,B3022,5677,Side Panel,$195.00 ,110,21450,30,11/5/2011,11/17/2011
+Steelpin Inc.,B3041,5234,Electrical Connector,$1.65 ,"4,500",7425,30,8/28/2011,9/5/2011
+Steelpin Inc.,B3042,5234,Electrical Connector,$1.65 ,"4,750",7837.5,30,9/5/2011,9/13/2011
+Steelpin Inc.,B3111,5234,Electrical Connector,$1.65 ,"4,850",8002.5,30,9/2/2011,9/11/2011
+Steelpin Inc.,B3222,8008,Machined Valve,$645.00 ,150,96750,30,10/15/2011,10/26/2011
+Steelpin Inc.,B3333,8008,Machined Valve,$645.00 ,100,64500,30,10/10/2011,10/21/2011
+Steelpin Inc.,C0456,5677,Side Panel,$195.00 ,130,25350,30,10/28/2011,11/7/2011
+Steelpin Inc.,C0467,8008,Machined Valve,$645.00 ,120,77400,30,10/28/2011,11/4/2011
+Steelpin Inc.,C0589,5319,Shielded Cable/ft.,$1.10 ,"18,100",19910,30,8/25/2011,9/5/2011
